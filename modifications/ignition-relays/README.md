@@ -33,14 +33,14 @@ Modern vehicles use [relays](https://www.12voltplanet.co.uk/relay-guide.html) to
 switch their various electrical subsystems. This would be far more reliable and
 easily sourced than the now old-stock replacement ignition switches.
 
-User _Twilightoptics_ of [rx7club.com](http://rx7club.com) described his approach for adding
-relays in his appropriately named thread [(ELECTRICAL) No Relay's? What was
-Mazda
-thinking?](https://www.rx7club.com/1st-gen-archive-71/electrical-no-relays-what-mazda-thinking-922262/)
+User _Twilightoptics_ of [rx7club.com](http://rx7club.com) described his
+approach for adding relays in his appropriately named thread [(ELECTRICAL) No
+Relay's? What was Mazda
+thinking?](https://www.rx7club.com/1st-gen-archive-71/electrical-no-relays-what-mazda-thinking-922262/).
 
-Though I couldn't find anything through the usual electric suppliers, matching connectors
-for the vehicle are available through [Eastern
-Beaver](https://easternbeaver.com)
+Though I couldn't find anything through the usual electric suppliers, matching
+connectors for the vehicle are available through [Eastern
+Beaver](https://easternbeaver.com).
 
 ## Design
 
@@ -49,7 +49,8 @@ my relays to the vehicle's existing wiring harness by using matching connectors.
 
 ### Schematic
 
-TODO: The most important bit of this readme. The first version, lacking the connection to ground through the check switch, is provided for the interim.
+TODO: The most important bit of this readme. The first version, lacking the
+connection to ground through the check switch, is provided for the interim.
 
 TODO: Label wire gauges, colors used.
 
@@ -74,9 +75,9 @@ BR, RB, B wires- this is for the `Brake warning light checker` as illustrated in
 the `Meter & Warning System` section of the wiring diagram. This connection
 provided a useful connection to ground.
 
-I chose 10 AWG wire, however this proved difficult to crimp and fit into some
-of the connectors. Given the rest of the vehicle's wiring, 12 AWG would likely
-be fine and be easier to work with. Use [this
+I chose 10 AWG wire, however this proved difficult to crimp and fit into some of
+the connectors. Given the rest of the vehicle's wiring, 12 AWG would likely be
+fine and be easier to work with. Use [this
 calculator](https://www.wirebarn.com/Wire-Calculator-_ep_41.html) and make your
 own judgement.
 
@@ -110,23 +111,23 @@ a crimp.
 
 .312" Connectors
 
-- 1x 1P312-3-5 Female (12-10 AWG)
-  [link](https://easternbeaver.com/Main/Elec__Products/Connectors/312_Connectors/312_connectors.html)
-- 1x 1P312-3-5 Male (12-10 AWG)
-  [link](https://easternbeaver.com/Main/Elec__Products/Connectors/312_Connectors/312_connectors.html)
-- 1x 2P312-3-5 Female (12-10 AWG)
-  [link](https://easternbeaver.com/Main/Elec__Products/Connectors/312_Connectors/312_connectors.html)
-- 1x 2P312-3-5 Male (12-10 AWG)
-  [link](https://easternbeaver.com/Main/Elec__Products/Connectors/312_Connectors/312_connectors.html)
+- 1x 1P312-3-5 Female (12-10 AWG) [Eastern
+  Beaver](https://easternbeaver.com/Main/Elec__Products/Connectors/312_Connectors/312_connectors.html)
+- 1x 1P312-3-5 Male (12-10 AWG) [Eastern
+  Beaver](https://easternbeaver.com/Main/Elec__Products/Connectors/312_Connectors/312_connectors.html)
+- 1x 2P312-3-5 Female (12-10 AWG) [Eastern
+  Beaver](https://easternbeaver.com/Main/Elec__Products/Connectors/312_Connectors/312_connectors.html)
+- 1x 2P312-3-5 Male (12-10 AWG) [Eastern
+  Beaver](https://easternbeaver.com/Main/Elec__Products/Connectors/312_Connectors/312_connectors.html)
 
 Yazaki CN(A) .250" Connectors
 
-- 1x 2P250 Set (Male & Female)
-  [link](https://easternbeaver.com/Main/Elec__Products/Connectors/250_Connectors/250_connectors.html)
-- 1x 3P250-CNA Set (Male & Female)
-  [link](https://easternbeaver.com/Main/Elec__Products/Connectors/250_Connectors/250_connectors.html)
-- 2x 3 sq mm Male Brass Tab
-  [link](https://easternbeaver.com/Main/Elec__Products/Connectors/250_Connectors/250_connectors.html)
+- 1x 2P250 Set (Male & Female) [Eastern
+  Beaver](https://easternbeaver.com/Main/Elec__Products/Connectors/250_Connectors/250_connectors.html)
+- 1x 3P250-CNA Set (Male & Female) [Eastern
+  Beaver](https://easternbeaver.com/Main/Elec__Products/Connectors/250_Connectors/250_connectors.html)
+- 2x 3 sq mm Male Brass Tab [Eastern
+  Beaver](https://easternbeaver.com/Main/Elec__Products/Connectors/250_Connectors/250_connectors.html)
 
 ### Tools
 
