@@ -10,15 +10,16 @@ resources directly; I suggest you make a copies of PDFs for yourself!
 
 ## Links
 
-### Kevin Wright
-
-- Factory service manuals, wiring diagrams, rotary books
-  [Wright-here.net](http://wright-here.net/cars/rx7/manuals.html)
+- [Wright-here.net](http://wright-here.net/cars/rx7/manuals.html)
   [[Wayback](https://web.archive.org/web/*/http://wright-here.net/cars/rx7/manuals.html)]
-- Modifications, general info, etc
-  [Wright-here.net](http://wright-here.net/cars/rx7/rx7.html)
+
+  Factory service manuals, wiring diagrams, rotary books
+
+- [Wright-here.net](http://wright-here.net/cars/rx7/rx7.html)
   [[Wayback](https://web.archive.org/web/2019*/http://wright-here.net/cars/rx7/rx7.html)]
 
-### RX-7 Club
+  Modifications, general info, etc
 
-- The forum for all generations [rx7club](https://www.rx7club.com/)
+- [rx7club](https://www.rx7club.com/)
+
+  A very handy forum for all generations of RX-7
