@@ -24,3 +24,14 @@ In the [available wiring diagrams](http://wright-here.net/cars/rx7/manuals.html#
 For wires with stripes (the majority), the first character refers to the primary color, and the second character refers to the stripe color.
 
 For example, a `RB` wire will be primarily red with a black stripe.
+
+## Source for Connectors
+
+***To be confirmed; making a note here with part numbers so that I can order some and test**
+
+| Pos | Male #   | Female # | Locking | Manufacturer |
+| --- | -------- | -------- | ------- | ------------ |
+| 2   | 172129   | 172130   | Yes     | TE |
+| 3   | 172131   | 172132   | Yes     | TE |
+| 4   | 172133   | 172134   | Yes     | TE |
+
